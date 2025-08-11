@@ -1,16 +1,15 @@
 payload:
     - +.byd3c3.com
-    - +.api-app-slow.bitkeep.app
-    - +.api-app-slow.bitkeep.asia
-    - +.api-app-slow.bitkeep.biz
-    - +.api-app-slow.bitkeep.fun
-    - +.api-app-slow.bitkeep.life
-    - +.api-app-slow.ljhsnzpc.com
-    - +.api-app-slow.lymrry.com
-    - +.api-app-slow.bitapi.vip
-    - +.api-data.bitkeep.com
-    - +.conf.chainnear.com
-    - +.message-push.bitkeep.life
-    - +.newshare.bwb.online
-    - +.newtrans.bitkeep.life
-    - +.relay.walletconnect.org
+    - +.bitkeep.app
+    - +.bitkeep.asia
+    - +.bitkeep.biz
+    - +.bitkeep.fun
+    - +.bitkeep.life
+    - +.ljhsnzpc.com
+    - +.lymrry.com
+    - +.bitapi.vip
+    - +.bitkeep.com
+    - +.chainnear.com
+    - +.bitkeep.life
+    - +.bwb.online
+    - +.walletconnect.org
