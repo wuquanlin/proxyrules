@@ -8,7 +8,7 @@
           "interval": "10m",
           "timeout": "3s"
       },
-      "url": "https://wql.us:3002/CKg2abs3KqtVnOeRpm1aB4G/download/collection/HB?target=sing-box",
+      "url": "https://wCKing-box",
       "exclude": "官网|剩余|流量|套餐|免费|订阅|全球直连|到期时间|GB|Expire Date|Traffic|ExpireDate",
       "download_detour": "🎯 全球直连",
       "update_interval": "12h"
