@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "sntp.uk",
+        "godaddy.com",
+        "qichiyu.com",
+        "xsus2025.cc",
+        "nordelec.globalprotect.keywordsstudios.com",
+        "workable.com",
+        "xsus.wiki"
+      ]
+    }
+  ]
+}
