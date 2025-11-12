@@ -1,5 +1,5 @@
 # mihomo-direct.yaml
-payload:
+#payload:
   - "IP-CIDR,83.229.121.225/32"
   - "IP-CIDR,45.192.105.156/32"
   - "IP-CIDR,3.112.190.98/32"
