@@ -9,3 +9,5 @@
     - IP-CIDR,104.214.171.11/32
     - IP-CIDR,38.165.21.184/32
     - DOMAIN-SUFFIX,wql.us
+    - DOMAIN-SUFFIX,amazonaws.com
+    - DOMAIN-SUFFIX,keywordsstudios.com
