@@ -1,51 +1,50 @@
-payload:
-    - +.godaddy.com
-    - +.sntp.uk
-    - +.xsus2025.cc
-    - +.nordelec.globalprotect.keywordsstudios.com
-    - +.workable.com
-    - +.qichiyu.com
-    - +.norton.com
-    - +.okx.com
-    - +.binance.com
-    - +.notebooklm.google
-    - +.hkbea.com
-    - +.safepal.com
-    - +.api.eu.amplitude.com
-    - +.visible.com
-    - +.cathaybank.com
-    - +.hncloud.com
-    - +.sntp.dev
-    - +.liangxin.xyz
-    - +.v2rayssr.com
-    - +.bbc.com
-    - +.bbc.co.uk
-    - +.nytimes.com
-    - +.wsj.com
-    - +.ft.com
-    - +.reuters.com
-    - +.cnn.com
-    - +.theguardian.com
-    - +.bloomberg.com
-    - +.economist.com
-    - +.time.com
-    - +.huffpost.com
-    - +.abc.net.au
-    - +.nbcnews.com
-    - +.cbc.ca
-    - +.theepochtimes.com
-    - +.washingtonpost.com
-    - +.voanews.com
-    - +.voachinese.com
-    - +.rfa.org
-    - +.dw.com
-    - +.rfi.fr
-    - +.abc.net.au
-    - +.epochtimes.com
-    - +.ntdtv.com
-    - +.secretchina.com
-    - +.soundofhope.org
-    - +.dota2.com
-    - +.chinadigitaltimes.net
-    - +.dotacoach.gg
+    DOMAIN-SUFFIX,godaddy.com
+    DOMAIN-SUFFIX,sntp.uk
+    DOMAIN-SUFFIX,xsus2025.cc
+    DOMAIN-SUFFIX,nordelec.globalprotect.keywordsstudios.com
+    DOMAIN-SUFFIX,workable.com
+    DOMAIN-SUFFIX,qichiyu.com
+    DOMAIN-SUFFIX,norton.com
+    DOMAIN-SUFFIX,okx.com
+    DOMAIN-SUFFIX,binance.com
+    DOMAIN-SUFFIX,notebooklm.google
+    DOMAIN-SUFFIX,hkbea.com
+    DOMAIN-SUFFIX,safepal.com
+    DOMAIN-SUFFIX,api.eu.amplitude.com
+    DOMAIN-SUFFIX,visible.com
+    DOMAIN-SUFFIX,cathaybank.com
+    DOMAIN-SUFFIX,hncloud.com
+    DOMAIN-SUFFIX,sntp.dev
+    DOMAIN-SUFFIX,liangxin.xyz
+    DOMAIN-SUFFIX,v2rayssr.com
+    DOMAIN-SUFFIX,bbc.com
+    DOMAIN-SUFFIX,bbc.co.uk
+    DOMAIN-SUFFIX,nytimes.com
+    DOMAIN-SUFFIX,wsj.com
+    DOMAIN-SUFFIX,ft.com
+    DOMAIN-SUFFIX,reuters.com
+    DOMAIN-SUFFIX,cnn.com
+    DOMAIN-SUFFIX,theguardian.com
+    DOMAIN-SUFFIX,bloomberg.com
+    DOMAIN-SUFFIX,economist.com
+    DOMAIN-SUFFIX,time.com
+    DOMAIN-SUFFIX,huffpost.com
+    DOMAIN-SUFFIX,abc.net.au
+    DOMAIN-SUFFIX,nbcnews.com
+    DOMAIN-SUFFIX,cbc.ca
+    DOMAIN-SUFFIX,theepochtimes.com
+    DOMAIN-SUFFIX,washingtonpost.com
+    DOMAIN-SUFFIX,voanews.com
+    DOMAIN-SUFFIX,voachinese.com
+    DOMAIN-SUFFIX,rfa.org
+    DOMAIN-SUFFIX,dw.com
+    DOMAIN-SUFFIX,rfi.fr
+    DOMAIN-SUFFIX,abc.net.au
+    DOMAIN-SUFFIX,epochtimes.com
+    DOMAIN-SUFFIX,ntdtv.com
+    DOMAIN-SUFFIX,secretchina.com
+    DOMAIN-SUFFIX,soundofhope.org
+    DOMAIN-SUFFIX,dota2.com
+    DOMAIN-SUFFIX,chinadigitaltimes.net
+    DOMAIN-SUFFIX,dotacoach.gg
 
