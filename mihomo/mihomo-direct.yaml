@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,wql.us
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,keywordsstudios.com
 DOMAIN-SUFFIX,service-now.com
+IP-CIDR,104.223.85.89/32
