@@ -50,4 +50,5 @@
     DOMAIN-KEYWORD,bing
     DOMAIN-KEYWORD,gemini
     DOMAIN-SUFFIX,proxmox.com
+    IP-CIDR,91.239.130.17
 
