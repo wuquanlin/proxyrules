@@ -52,4 +52,5 @@
     DOMAIN-SUFFIX,proxmox.com
     IP-CIDR,91.239.130.17/32
     IP-CIDR,1.1.1.1/32
+    IP-CIDR,8.8.8.8/32
 
