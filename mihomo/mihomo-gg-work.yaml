@@ -4,6 +4,7 @@
     DOMAIN-SUFFIX,meet.google.com
     DOMAIN-SUFFIX,contacts.google.com
     DOMAIN-SUFFIX,googleapis.com
+    DOMAIN-KEYWORD,gemini
     IP-CIDR,1.1.1.1/32
     IP-CIDR,8.8.8.8/32
 
