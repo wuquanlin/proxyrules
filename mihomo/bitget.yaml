@@ -22,7 +22,6 @@ payload:
     # 交易所相关
     - +.mexc.co
     - +.bitgetapp.com
-    - +.bitget.com
     
     # DeFi 和区块链服务
     - +.llama.fi
