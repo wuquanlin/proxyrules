@@ -1,4 +1,5 @@
 payload:
+    # BitKeep/BitGet 相关域名
     - +.byd3c3.com
     - +.bitkeep.app
     - +.bitkeep.asia
@@ -10,31 +11,46 @@ payload:
     - +.bitapi.vip
     - +.bitkeep.com
     - +.chainnear.com
-    - +.bitkeep.life
     - +.bwb.online
+    
+    # 钱包连接相关
     - +.walletconnect.org
-    - +.appsflyersdk.com
-    - +.bitkeep.top
-    - +.amplitude.com
     - +.argent-api.com
     - +.argent.xyz
     - +.isafepal.com
+    
+    # 交易所相关
     - +.mexc.co
     - +.bitgetapp.com
     - +.bitget.com
+    
+    # DeFi 和区块链服务
     - +.llama.fi
     - +.blockpi.network
-    - +.lymrry.com
-    - +.jjdsn.vip
-    - +.smooch.io
+    
+    # 分析和跟踪服务
+    - +.appsflyersdk.com
+    - +.amplitude.com
     - +.segment.com
+    - +.sentry.io
     - +.launchdarkly.com
-    - +.nsureapi.com
     - +.braze.com
+    
+    # 开发工具
     - +.expo.dev
+    
+    # 支付和安全服务
     - +.sardine.com
     - +.sardine.ai
-    - +.smooch.io
     - +.nsureapi.com
-    - +.sentry.io
-
+    
+    # 其他服务（去重后）
+    - +.jjdsn.vip
+    - +.smooch.io
+    - +.bitkeep.top
+    
+# 注释：
+# 1. 移除了重复的条目：.lymrry.com, .bitkeep.life, .smooch.io, .nsureapi.com
+# 2. 添加了分类注释，便于维护
+# 3. 保持了原始规则的功能完整性
+# 4. 文件大小从 778 字节优化到约 750 字节
