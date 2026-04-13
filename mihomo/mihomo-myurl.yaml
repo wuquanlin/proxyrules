@@ -53,5 +53,6 @@
     DOMAIN-SUFFIX,gigsgigscloud.com
     DOMAIN-SUFFIX,cherryproxy.com
     IP-CIDR,91.239.130.17/32
+IP-CIDR,183.192.65.101/32
 
 
