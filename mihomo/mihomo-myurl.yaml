@@ -1,3 +1,7 @@
+    IP-CIDR,8.8.8.8/32
+    IP-CIDR,8.8.4.4/32
+    IP-CIDR,1.1.1.1/32
+    IP-CIDR,1.0.0.1/32
     DOMAIN-SUFFIX,godaddy.com
     DOMAIN-SUFFIX,sntp.uk
     DOMAIN-SUFFIX,xsus2025.cc
@@ -53,7 +57,7 @@
     DOMAIN-SUFFIX,gigsgigscloud.com
     DOMAIN-SUFFIX,cherryproxy.com
     IP-CIDR,91.239.130.17/32
-IP-CIDR,183.192.65.101/32
-DOMAIN-SUFFIX,uvwhd.com
+    IP-CIDR,183.192.65.101/32
+    DOMAIN-SUFFIX,uvwhd.com
 
 
