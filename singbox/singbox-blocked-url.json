@@ -1,0 +1,11 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain_suffix": [
+        "v1d.pkoplink.com",
+        "gecko31-normal-alisg.tiktokv.com"
+      ]
+    }
+  ]
+}
